@@ -1,2 +1,3 @@
-# interface-generic-database
-Interface layer of generic database for Juju
+# Generic-database interface
+
+See seperate repo
